@@ -26,3 +26,9 @@ parts:
       sections:
       - title: Case Study
         file: docs/product-vision-strategy/case-study
+    - file: docs/learning-sources/learning-sources-intro
+      sections:
+      - title: PM Articles
+        file: docs/learning-sources/articles.md
+      - title: PM Sources
+        file: docs/learning-sources/sources.md
