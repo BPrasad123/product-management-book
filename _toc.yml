@@ -1,0 +1,28 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: welcome
+parts:
+  - chapters:
+# ===== Guide for Reproducible Research ========================================
+    - file: docs/design-thinking/design-thinking-intro
+      sections:
+      - title: What is Design Thinking
+        file: docs/design-thinking/what-is-design-thinking
+      - title: Case Study
+        file: docs/design-thinking/case-study
+      - title: More on Design Thinking
+        file: docs/design-thinking/more-on-design-thinking
+    - file: docs/understanding-market/understanding-market-intro
+      sections:
+      - title: Guesstimates
+        file: docs/understanding-market/guesstimates
+    - file: docs/understanding-users/understanding-users-intro
+      sections:
+      - title: Case Study
+        file: docs/understanding-users/case-study
+    - file: docs/product-vision-strategy/product-vision-strategy-intro
+      sections:
+      - title: Case Study
+        file: docs/product-vision-strategy/case-study
